@@ -10,6 +10,7 @@ Download
  
  project ini sudah berhasil untuk mesin antrian secara offline / tanpa koneksi internet
  
+ ![alt text](https://github.com/aldysetiaa/voice_indonesian/blob/main/ss1.png)
  
  # Tag 
  - Aplikasi Antrian Bahasa Indonesia Offline
