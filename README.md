@@ -1,4 +1,4 @@
-# voice indonesian damayanti
+# voice indonesian damayanti PHP & Javascript
 
 Cara membuat text to speech atau suara menjadi teks berbahasa Indonesia (Indonesia Damayanti) offilne/tanpa internet
 
