@@ -6,6 +6,8 @@ langkah pertama pastikan di komputer windows sudah terinstal aplikasi suara nya 
 Download 
   https://drive.google.com/file/d/1UyTrFxdJd3JHC52oP2pf3OoyBplBoZtj/view?usp=sharing
   
+  NOTE : Sebelum request share, klik start dulu ya dan follow github ini, berikan message jika sudah, terimakasih
+  
  Kedua gunakan sample project ini dengan menggunakan xampp,
  
  project ini sudah berhasil untuk mesin antrian secara offline / tanpa koneksi internet
