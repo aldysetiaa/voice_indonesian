@@ -3,6 +3,7 @@
 Cara membuat text to speech atau suara menjadi teks berbahasa Indonesia (Indonesia Damayanti) offilne/tanpa internet
 
 langkah pertama pastikan di komputer windows sudah terinstal aplikasi suara nya :
+
 Download 
 https://drive.google.com/file/d/16DWRoULNsbJ28WJljUVW6SWyjxu_7_dY/view?usp=sharing
   
