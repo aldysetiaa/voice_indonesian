@@ -4,7 +4,7 @@ Cara membuat text to speech atau suara menjadi teks berbahasa Indonesia (Indones
 
 langkah pertama pastikan di komputer windows sudah terinstal aplikasi suara nya :
 Download 
-  https://drive.google.com/file/d/1UyTrFxdJd3JHC52oP2pf3OoyBplBoZtj/view?usp=sharing
+https://drive.google.com/file/d/16DWRoULNsbJ28WJljUVW6SWyjxu_7_dY/view?usp=sharing
   
   NOTE : Sebelum request share, klik start dulu ya dan follow github ini, berikan message jika sudah, terimakasih
   
