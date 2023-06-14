@@ -1,0 +1,2 @@
+nada 0.8 
+tingkat_suara 1
